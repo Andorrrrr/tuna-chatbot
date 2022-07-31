@@ -1,6 +1,6 @@
 module.exports = {
   defaultPrefix: '?',
-  logChannelId: '875254787191504947',
+  logChannelId: '1001526324835405896',
   emojis: {
     cross: '❌',
     tick: '✅',
